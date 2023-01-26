@@ -26,7 +26,7 @@ print("Eigen values are",res,"and Eigen Vectors are",v)
 ```
 
 ## Output:
-![Eigen](https://user-images.githubusercontent.com/85949888/209550299-4be046d9-2e1f-447b-add1-abe4fbdfc17d.png)
+![Eigen value](https://user-images.githubusercontent.com/85949888/214745736-3f71d04b-4341-427b-8ee3-628842241566.png)
 
 
 
